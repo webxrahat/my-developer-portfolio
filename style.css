@@ -134,6 +134,7 @@
     padding: 30px 20px;
     border-left: 8px solid #051db9cc;
     border-radius: 5px;
+    box-shadow: 5px 2px 5px 2px #808080;
 
 }
 .box2{
@@ -146,6 +147,22 @@
     text-align: center;
     padding: 30px 20px;
     border-radius: 5px;
+    box-shadow: 5px 2px 5px 2px #808080;
+}
+.fullstack{
+    font-size: 30px;
+    font-weight: 600;
+    color: #2C3639;
+    padding-bottom: 30px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+.pro{
+    font-weight: 600;
+    color: #FF9F29;
+    padding-bottom: 10px;
+    letter-spacing: 1px;
+    line-height: 1.5;
 }
 .footer{
     font-size: 16px;
